@@ -12,7 +12,7 @@ main{
     align-items: center;
     justify-content: center;
     margin-left: 25%;
-    margin-top: 10%;
+    margin-top: 7%;
 }
 .sed {
     background-color: hsl(31, 77%, 52%);
@@ -72,4 +72,16 @@ button{
     text-align: center;
     margin: 33px 16%;
     margin-top: 60px;
+}
+.redirect{
+    text-decoration: none;
+    font-family: 'Big Shoulder';
+    padding: 15px;
+    border: none;
+    background-color: brown;
+    color: antiquewhite;
+    font-size: 20px;
+}
+.redirect:hover{
+    background-color: black;
 }
